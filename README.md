@@ -1,165 +1,149 @@
 <!--
-  GitHub Profile README
-  Inesh Davin Samarasinghe
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  INESH DAVIN SAMARASINGHE
+  GitHub Profile // 2026
+  AI • SOFTWARE • PRODUCT • DESIGN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20,24&text=Inesh%20Davin%20Samarasinghe&fontSize=42&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=60&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&width=850&lines=AI+%26+Software+Engineer;Full-Stack+Web+Developer;UI%2FUX+Designer;App+Developer+%26+Creative+Technologist;Founder+of+CipherX;Building+under+DavinGX+Studio;Turning+Ideas+Into+Digital+Experiences" alt="Typing SVG" />
+<img src="./assets/hero-strip.svg" width="100%" alt="Inesh Davin Samarasinghe" />
 
 <br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2300&pause=800&color=2563EB&center=true&vCenter=true&repeat=true&width=950&lines=AI+Engineer+%E2%80%A2+Software+Engineer+%E2%80%A2+Entrepreneur;Full-Stack+Developer+%E2%80%A2+UI%2FUX+Designer;Building+AI%2C+Web+%26+Digital+Products;Turning+Ideas+Into+Experiences+People+Remember" alt="Animated intro" />
+
+<br/>
 
 <a href="https://wa.me/ineshdavin">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/LET'S%20TALK-WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a href="https://github.com/idavingx-commits">
-  <img src="https://img.shields.io/badge/GitHub-idavingx-commits-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOLLOW-GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=idavingx-commits&label=PROFILE+VIEWS&color=8b5cf6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=idavingx-commits&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" />
 
 </div>
 
----
+<br/>
 
-# 👨‍💻 About Me
-
-Hi, I'm **Inesh Davin Samarasinghe** — an **AI & Software Engineer, Full-Stack Web Developer, UI/UX Designer, App Developer and Creative Technologist** from Sri Lanka.
-
-I enjoy building modern products where **software engineering, artificial intelligence, design, automation and creativity** come together.
-
-My work spans web applications, AI-powered products, developer tools, business systems, educational platforms, desktop-app concepts, creative media and interactive digital experiences.
-
-```ts
-const ineshDavin = {
-  name: "Inesh Davin Samarasinghe",
-  username: "idavingx-commits",
-  country: "Sri Lanka",
-
-  roles: [
-    "AI Engineer",
-    "Software Engineer",
-    "Full-Stack Web Developer",
-    "UI/UX Designer",
-    "App Developer",
-    "Creative Technologist"
-  ],
-
-  founder: "CipherX",
-  studio: "DavinGX Studio",
-
-  interests: [
-    "Artificial Intelligence",
-    "Generative AI",
-    "Web Development",
-    "Software Engineering",
-    "UI/UX Design",
-    "Automation",
-    "Developer Tools",
-    "Desktop Applications",
-    "Game Development",
-    "Motion Graphics",
-    "3D Animation",
-    "Video Production",
-    "Photography"
-  ],
-
-  philosophy: "Clean. Fast. Useful. Modern. Human-centered."
-};
-```
+<img src="./assets/profile-snapshot.svg" width="100%" alt="Profile Snapshot" />
 
 ---
 
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### ⚡ Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,vite,ts,js,html,css,tailwind" />
-
-<br/>
-
-**React • Vite • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind CSS • shadcn/ui • Framer Motion**
-
-### 🧠 Backend, Database & Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,php,mysql,git,github,vscode" />
-
-<br/>
-
-**Node.js • PHP • MySQL • REST APIs • Git • GitHub • Full-Stack Development**
-
-### 🎨 UI/UX & Creative
-
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender" />
-
-<br/>
-
-**UI/UX Design • Graphic Design • Motion Graphics • 3D Animation • Video Editing • Video Production • Photography**
-
-### 🎮 Game & Interactive Development
-
-<img src="https://skillicons.dev/icons?i=unreal,godot,unity" />
-
-<br/>
-
-**Unreal Engine • Godot • Unity • Interactive Experiences**
-
-### 🌐 Platforms & Tools
-
-<img src="https://skillicons.dev/icons?i=wordpress,vercel,cloudflare,npm" />
-
-<br/>
-
-**WordPress • Modern Deployment • Developer Tooling • Web Platforms**
-
-</div>
-
----
-
-# 🚀 What I Build
+## 01 / WHO I AM
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="58%" valign="top">
 
-### 💻 Software
-- Full-Stack Web Apps
-- Business Websites
-- Web Platforms
-- Admin Dashboards
-- LMS Systems
-- Developer Tools
-- Desktop App Concepts
-- Automation Systems
+### I build where engineering meets imagination.
 
-</td>
-<td width="33%" valign="top">
+I'm **Inesh Davin Samarasinghe** — an **AI Engineer, Software Engineer, Full-Stack Web Developer, UI/UX Designer, App Developer and Entrepreneur** from Sri Lanka.
 
-### 🤖 AI
-- AI-Powered Applications
-- Generative AI Experiences
-- AI Platform Concepts
-- Smart Automation
-- AI Creative Tools
-- AI-Assisted Workflows
+I like taking a rough idea and turning it into something that feels:
+
+**intentional • polished • fast • useful • memorable**
+
+My work sits at the intersection of **AI, software, product design and creative technology**.
 
 </td>
-<td width="33%" valign="top">
+<td width="42%" valign="top">
 
-### 🎨 Creative
-- UI/UX Design
-- Graphic Design
-- Motion Graphics
-- 3D Animation
-- Video Production
-- Photography
-- Brand Experiences
+```ts
+const inesh = {
+  role: [
+    "AI Engineer",
+    "Software Engineer",
+    "Full-Stack Developer",
+    "UI/UX Designer",
+    "Entrepreneur"
+  ],
+  founder: "CipherX",
+  studio: "DavinGX Studio",
+  location: "Sri Lanka",
+  mindset: "Build. Refine. Ship."
+}
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="./assets/focus-card.svg" width="100%" alt="Current Focus" />
+
+---
+
+## 02 / THE STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,ts,js,html,css,tailwind,nodejs,php,mysql,git,github,vscode,figma,photoshop,illustrator,blender,unreal,godot,unity,wordpress,vercel,npm&perline=12" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/Framer%20Motion-111827?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### ⚛ Frontend
+React  
+Vite  
+TypeScript  
+JavaScript  
+Tailwind CSS  
+shadcn/ui  
+Framer Motion
+
+</td>
+<td width="25%" valign="top">
+
+### ◈ Backend
+Node.js  
+PHP  
+MySQL  
+REST APIs  
+Auth Systems  
+Dashboards  
+Database Design
+
+</td>
+<td width="25%" valign="top">
+
+### ✦ Creative
+UI/UX  
+Figma  
+Graphics  
+Motion  
+Video  
+3D  
+Photography
+
+</td>
+<td width="25%" valign="top">
+
+### ⬡ Exploring
+Generative AI  
+Automation  
+Developer Tools  
+Desktop Apps  
+Unreal Engine  
+Godot  
+Creative Coding
 
 </td>
 </tr>
@@ -167,239 +151,246 @@ const ineshDavin = {
 
 ---
 
-# 🧩 Projects, Brands & Communities
+## 03 / HOW I BUILD
 
-## ⚡ CipherX
-
-I founded **CipherX**, a technology-focused team working around:
-
-- Software Development
-- Artificial Intelligence
-- Web Development
-- UI/UX Design
-- Digital Products
-- Innovative Technology Solutions
-
----
-
-## 💜 DavinGX Studio
-
-**DavinGX Studio** is my creative and development identity focused on combining technology with design.
-
-Areas include:
-
-- Web Development
-- Software Development
-- UI/UX
-- Graphic Design
-- Video Production
-- Motion Graphics
-- 3D Creative Work
-- Digital Experiences
-
----
-
-## 🤖 Helax AI
-
-I have worked around **Helax AI** related technology and creative initiatives, including AI platform development concepts, generative AI experiences and community projects.
-
-I have also been involved with projects connected to the **NHB LK** technology community.
-
----
-
-## 🎓 Education & LMS Systems
-
-I explore and build concepts for modern education platforms including:
-
-- Student registration
-- Class management
-- Online recordings
-- Zoom integration
-- Payment verification
-- Parent/student dashboards
-- Marks and progress tracking
-- Admin management systems
-
----
-
-## 🏨 Business & Booking Systems
-
-I also design business-focused digital products such as:
-
-- Hotel websites
-- Booking experiences
-- WhatsApp-based booking flows
-- Business landing pages
-- Service platforms
-- Customer conversion experiences
-
----
-
-# 🎬 Creative & Content Projects
-
-Alongside development, I have explored creative projects and online brands including:
-
-- **DGames Studio**
-- **Rappite Kolla**
-- **ShaShiya GaMing**
-- **ZuZeter**
-- Creative YouTube content
-- Gaming content
-- Music-related projects
-- Video production
-- Thumbnail & branding design
-
----
-
-# 🧪 Currently Exploring
+```text
+                    ┌─────────────┐
+                    │    IDEA     │
+                    └──────┬──────┘
+                           │
+              ┌────────────▼────────────┐
+              │   RESEARCH + STRATEGY   │
+              └────────────┬────────────┘
+                           │
+           ┌───────────────▼────────────────┐
+           │  PRODUCT THINKING + UX DESIGN  │
+           └───────────────┬────────────────┘
+                           │
+               ┌───────────▼───────────┐
+               │   BUILD + INTEGRATE   │
+               └───────────┬───────────┘
+                           │
+                 ┌─────────▼─────────┐
+                 │  TEST + OPTIMIZE  │
+                 └─────────┬─────────┘
+                           │
+                     ┌─────▼─────┐
+                     │   SHIP    │
+                     └───────────┘
+```
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Products-7C3AED?style=for-the-badge&logo=sparkles&logoColor=white" />
-<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-<img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Unreal_Engine-111827?style=for-the-badge&logo=unrealengine&logoColor=white" />
-<img src="https://img.shields.io/badge/Godot-111827?style=for-the-badge&logo=godotengine&logoColor=478CBF" />
+**Think clearly. Design with purpose. Build with logic. Ship with quality.**
 
 </div>
 
 ---
 
-# 💻 My Preferred Web Stack
+## 04 / SELECTED ECOSYSTEM
 
-```txt
-React
-│
-├── Vite
-├── TypeScript
-├── Tailwind CSS
-├── shadcn/ui
-├── Framer Motion
-├── REST APIs
-└── MySQL / Backend Services
-```
-
-I especially enjoy **dark modern interfaces**, clean layouts, glass-style UI, smooth animation and strong desktop-product experiences.
+<img src="./assets/ecosystem.svg" width="100%" alt="Selected Ecosystem" />
 
 ---
 
-# 🎯 Areas I Care About
-
-- Artificial Intelligence
-- Generative AI
-- Software Engineering
-- Full-Stack Development
-- Modern Frontend Architecture
-- UI/UX Design
-- Product Design
-- Automation
-- Developer Experience
-- Web Performance
-- Responsive Design
-- Creative Technology
-- Game Development
-- Digital Media
-
----
-
-# 📊 GitHub Analytics
+## 05 / THINGS I LIKE BUILDING
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=idavingx-commits&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idavingx-commits&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://img.shields.io/badge/AI%20PRODUCTS-2563EB?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/WEB%20PLATFORMS-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/FULL--STACK%20SYSTEMS-7C3AED?style=for-the-badge&logo=stackblitz&logoColor=white" />
+<img src="https://img.shields.io/badge/AUTOMATION-111827?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/UI%2FUX-8B5CF6?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/INTERACTIVE%20EXPERIENCES-0891B2?style=for-the-badge&logo=unity&logoColor=white" />
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### PRODUCT SYSTEMS
+- AI-powered applications
+- Business platforms
+- Admin dashboards
+- LMS platforms
+- Booking systems
+- Customer portals
+- Automation workflows
+
+</td>
+<td width="33%" valign="top">
+
+### DIGITAL EXPERIENCES
+- Responsive websites
+- Product landing pages
+- Interactive interfaces
+- Modern web applications
+- Mobile-first experiences
+- Conversion-focused UI
+
+</td>
+<td width="33%" valign="top">
+
+### CREATIVE TECHNOLOGY
+- UI/UX design
+- Graphic design
+- Motion graphics
+- Video production
+- 3D animation
+- Photography
+- Game / simulation concepts
+
+</td>
+</tr>
+</table>
+
+---
+
+## 06 / EDUCATION & LMS SYSTEMS
+
+I design learning-platform concepts that can bring together:
+
+| Students | Teachers | Administration |
+|---|---|---|
+| Registration | Class Management | User Management |
+| Recordings | Zoom Integration | Payment Verification |
+| Upcoming Classes | Marks & Results | Content Management |
+| Learning Access | Progress Tracking | Dashboard Analytics |
+| Parent Visibility | Resources | System Controls |
+
+---
+
+## 07 / GAME & INTERACTIVE
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=unreal,godot,unity,blender" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=idavingx-commits&theme=tokyonight&hide_border=true&border_radius=12" />
+**Unreal Engine • Godot • Unity • Blender**
+
+<br/>
+
+I’m interested in **immersive worlds, interactive simulations, space experiences and visually rich environments**.
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+## 08 / CREATIVE SIDE
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=idavingx-commits&bg_color=0d1117&color=8b5cf6&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+<img src="https://img.shields.io/badge/GRAPHIC%20DESIGN-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/UI%2FUX-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/VIDEO%20EDITING-0EA5E9?style=flat-square" />
+<img src="https://img.shields.io/badge/MOTION%20GRAPHICS-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/3D%20ANIMATION-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/PHOTOGRAPHY-334155?style=flat-square" />
+
+<br/><br/>
+
+**DGames Studio • Rappite Kolla • ShaShiya GaMing • ZuZeter**
 
 </div>
 
 ---
 
-# 🏆 GitHub Profile
+## 09 / GITHUB // LIVE METRICS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=idavingx-commits&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=idavingx-commits&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=7C3AED&text_color=64748B&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idavingx-commits&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=64748B" />
+
+<br/><br/>
+
+<img width="72%" src="https://streak-stats.demolab.com?user=idavingx-commits&theme=transparent&hide_border=true&ring=2563EB&fire=7C3AED&currStreakLabel=2563EB&sideLabels=64748B&dates=94A3B8" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=idavingx-commits&bg_color=ffffff00&color=64748B&line=2563EB&point=7C3AED&area=true&area_color=DBEAFE&hide_border=true&radius=12" />
 
 </div>
 
 ---
 
-# 🧠 Development Philosophy
+## 10 / CONTRIBUTION FLOW
 
 <div align="center">
 
-### `Clean.` • `Fast.` • `Useful.` • `Modern.` • `Human-Centered.`
+<img src="https://raw.githubusercontent.com/idavingx-commits/idavingx-commits/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 
-> **I want technology to feel powerful without feeling complicated.**
-
-I believe good digital products should combine strong engineering with thoughtful design.
+<sub>If the snake is not visible yet, run the included GitHub Action once after uploading this pack.</sub>
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+## 11 / CURRENT SIGNAL
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2100&pause=650&color=7C3AED&center=true&vCenter=true&repeat=true&width=940&lines=Generative+AI+%26+AI+Products;Advanced+React+%26+TypeScript;Modern+UI+Systems;Automation+%26+Developer+Tools;Game+Development;Creative+Coding+%26+Digital+Products" />
+
+</div>
+
+---
+
+## 12 / PRINCIPLES
+
+<div align="center">
+
+> ### Technology should feel powerful without feeling complicated.
+
+<br/>
+
+<img src="https://img.shields.io/badge/CLEAN-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FAST-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/USEFUL-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MODERN-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HUMAN--CENTERED-111827?style=for-the-badge" />
+
+</div>
+
+---
+
+## 13 / CONNECT
+
+<div align="center">
+
+### Got an idea worth building?
+
+<br/>
 
 <a href="https://wa.me/ineshdavin">
-  <img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WHATSAPP-MESSAGE%20ME-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 <a href="https://github.com/idavingx-commits">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**Have a project idea, collaboration, software concept or creative technology project?**
-
-### [💬 Contact me on WhatsApp](https://wa.me/ineshdavin)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub+profile!;Keep+building.+Keep+learning.+Keep+creating." />
-
-<br/>
-
-### Inesh Davin Samarasinghe
-
-**AI Engineer • Software Engineer • Full-Stack Developer • UI/UX Designer**
-
-**Founder — CipherX | DavinGX Studio**
-
-<br/>
-
-<a href="https://wa.me/ineshdavin">
-  <img src="https://img.shields.io/badge/Let's%20Build%20Something-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-FOLLOW%20ME-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=20,12,6&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=950&color=2563EB&center=true&vCenter=true&repeat=true&width=820&lines=Code.+Design.+Create.+Repeat.;Always+learning.+Always+building.;Thanks+for+visiting+my+world." />
+
+<br/><br/>
+
+## Inesh Davin Samarasinghe
+
+**AI Engineer • Software Engineer • Full-Stack Developer • UI/UX Designer • Entrepreneur**
+
+**Founder — CipherX**  
+**DavinGX Studio**
+
+<br/>
+
+<img src="https://img.shields.io/badge/BUILT%20WITH-CODE%20%2B%20CURIOSITY-2563EB?style=for-the-badge" />
 
 </div>
