@@ -207,27 +207,6 @@ I have also been involved with projects connected to the **NHB LK** technology c
 
 ---
 
-## 🖥️ DevDesk OS
-
-**DevDesk OS** is a desktop-product concept focused on creating a modern, polished and productive developer workspace experience.
-
-The idea combines:
-
-- Developer productivity
-- Clean UI
-- Desktop software
-- Modern workflows
-- Tool integration
-- Professional product design
-
----
-
-## 🗺️ Kadeta.lk
-
-A platform concept designed to help people discover shops, places and useful local information through an interactive modern web experience.
-
----
-
 ## 🎓 Education & LMS Systems
 
 I explore and build concepts for modern education platforms including:
