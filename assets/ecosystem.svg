@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<defs>
+  <linearGradient id="p1" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#eef2ff"/><stop offset="100%" stop-color="#f5f3ff"/></linearGradient>
+  <linearGradient id="p2" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#ecfeff"/><stop offset="100%" stop-color="#eff6ff"/></linearGradient>
+  <linearGradient id="p3" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#faf5ff"/><stop offset="100%" stop-color="#fdf4ff"/></linearGradient>
+  <linearGradient id="p4" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#f8fafc"/><stop offset="100%" stop-color="#f1f5f9"/></linearGradient>
+</defs>
+<rect width="1200" height="520" rx="30" fill="#ffffff"/>
+<text x="48" y="60" fill="#0f172a" font-size="30" font-family="Inter,Segoe UI,Arial" font-weight="800">SELECTED ECOSYSTEM</text>
+<text x="48" y="92" fill="#64748b" font-size="16" font-family="Inter,Segoe UI,Arial">A snapshot of the brands, ideas and platforms I build around.</text>
+<g>
+<rect x="48" y="128" width="520" height="150" rx="24" fill="url(#p1)" stroke="#ddd6fe"/>
+<circle cx="95" cy="174" r="22" fill="#7c3aed"/><text x="86" y="183" fill="#fff" font-size="25" font-weight="800" font-family="Arial">C</text>
+<text x="132" y="170" fill="#111827" font-size="27" font-family="Inter,Arial" font-weight="800">CipherX</text>
+<text x="132" y="205" fill="#64748b" font-size="16" font-family="Inter,Arial">Software • AI • UI/UX • Digital Products</text>
+<text x="132" y="237" fill="#7c3aed" font-size="14" font-family="JetBrains Mono,Consolas">FOUNDER</text>
+<rect x="632" y="128" width="520" height="150" rx="24" fill="url(#p2)" stroke="#bae6fd"/>
+<circle cx="679" cy="174" r="22" fill="#0ea5e9"/><text x="668" y="183" fill="#fff" font-size="23" font-weight="800" font-family="Arial">D</text>
+<text x="716" y="170" fill="#111827" font-size="27" font-family="Inter,Arial" font-weight="800">DavinGX Studio</text>
+<text x="716" y="205" fill="#64748b" font-size="16" font-family="Inter,Arial">Development • Design • Creative Technology</text>
+<text x="716" y="237" fill="#0ea5e9" font-size="14" font-family="JetBrains Mono,Consolas">CREATIVE / DEV BRAND</text>
+<rect x="48" y="314" width="520" height="150" rx="24" fill="url(#p3)" stroke="#e9d5ff"/>
+<circle cx="95" cy="360" r="22" fill="#8b5cf6"/><text x="84" y="369" fill="#fff" font-size="22" font-weight="800" font-family="Arial">AI</text>
+<text x="132" y="356" fill="#111827" font-size="27" font-family="Inter,Arial" font-weight="800">Helax AI</text>
+<text x="132" y="391" fill="#64748b" font-size="16" font-family="Inter,Arial">Generative AI • Community • Creative Initiatives</text>
+<text x="132" y="423" fill="#8b5cf6" font-size="14" font-family="JetBrains Mono,Consolas">AI ECOSYSTEM</text>
+<rect x="632" y="314" width="520" height="150" rx="24" fill="url(#p4)" stroke="#cbd5e1"/>
+<circle cx="679" cy="360" r="22" fill="#111827"/><text x="668" y="369" fill="#fff" font-size="24" font-weight="800" font-family="Arial">K</text>
+<text x="716" y="356" fill="#111827" font-size="27" font-family="Inter,Arial" font-weight="800">Kadeta.lk</text>
+<text x="716" y="391" fill="#64748b" font-size="16" font-family="Inter,Arial">Local discovery • Maps • Business Information</text>
+<text x="716" y="423" fill="#111827" font-size="14" font-family="JetBrains Mono,Consolas">PLATFORM CONCEPT</text>
+</g>
+</svg>
