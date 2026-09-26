@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="./assets/hero-strip.svg" width="100%" alt="Inesh Davin Samarasinghe" />
+<img src="./assets/inesh-davin-hero.png" width="100%" alt="Inesh Davin Samarasinghe" />
 
 <br/><br/>
 
@@ -25,6 +25,10 @@
 <img src="https://komarev.com/ghpvc/?username=idavingx-commits&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" />
 
 </div>
+
+<br/>
+
+<img src="./assets/hero-strip.svg" width="100%" alt="Inesh Davin — Profile Strip" />
 
 <br/>
 
